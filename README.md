@@ -1,2 +1,2 @@
 # aoc
-adventofcode.com/2023
+adventofcode solutions
